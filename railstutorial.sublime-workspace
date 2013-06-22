@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synta rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"convert",
+				"Convert Case: Title Case"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"synt c",
+				"Set Syntax: C#"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/devel/projects/railstutorial/Vagrantfile",
+		"/C/devel/projects/rails_install.sh",
+		"/C/devel/projects/.gitconfig",
+		"/C/devel/projects/vagranttest1/app/railstutorial/railstutorial.sublime-project",
+		"/C/Utils/Vagrant/bin/vagrant",
+		"/C/Utils/Vagrant/embedded/gems/bin/vagrant.bat",
+		"/C/Utils/Vagrant/embedded/gems/gems/vagrant-1.2.2/plugins/guests/linux/cap/mount_virtualbox_shared_folder.rb",
+		"/C/devel/projects/vagranttest1/Vagrantfile",
+		"/C/Utils/Vagrant/embedded/gems/gems/vagrant-1.2.2/plugins/guests/solaris/cap/mount_virtualbox_shared_folder.rb",
+		"/C/Users/henniels/.vagrant.d/boxes/precise64/virtualbox/Vagrantfile",
+		"/C/Utils/Vagrant/bin/vagrant.bat",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/User/IR_Black.tmTheme",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/User/IR_Black.tmTheme.xml",
+		"/C/Users/henniels/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/shell.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/Utils.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/CheckVersion.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/GitPrompt.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/GitTabExpansion.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/install.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/TortoiseGit.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/profile.example.ps1",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/GitUtils.ps1",
+		"/C/Users/henniels/AppData/Roaming/Console/console.xml",
+		"/C/Users/henniels/AppData/Local/GitHub/PoshGit_89f1ebf5c11f09ea9bbf9fc526c73fc1ac3767ca/posh-git.psm1",
+		"/C/devel/projects/railstutorial/app/railstutorial/Gemfile",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/RailsTutorial/let-bang.sublime-snippet",
+		"/C/Users/henniels/Dropbox/BC Performance Management/30 - Development/Deploy/Uninstall.bat",
+		"/C/devel/projects/DBP_dev/.gitignore",
+		"/C/Users/henniels/Documents/!Documents/0-Projects/SKAT - Een Skattekonto/Deliverables/Interessenter - præsentationer/Mødereferat ATP 2013-05-17.txt",
+		"/C/Users/henniels/Documents/!Documents/0-Projects/SKAT - Een Skattekonto/Deliverables/Interessenter - præsentationer/Mødereferat Københavns kommune 2013-05-16.txt",
+		"/C/Users/henniels/Documents/!Documents/_scratch.txt",
+		"/C/Program Files (x86)/XMind/XMind.ini",
+		"/C/Users/henniels/AppData/Local/Temp/_tc/markerSheet.xml",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/henniels/Documents/!Documents/0-Projects/SKAT/Én Skattekonto/Projekt - En konto for mellemværende med det offentlige.lnk",
+		"/C/Users/henniels/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/henniels/AppData/Roaming/GHISLER/wincmd.ini",
+		"/C/Users/henniels/AppData/Roaming/Microsoft/signatures/Deloitte DK Light.htm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ssh-agent",
+			"ctrl",
+			"super+ctrl",
+			"command",
+			"co",
+			"2013",
+			" Expense Report.pdf",
+			"->",
+			"",
+			"•         ",
+			"InstallDir",
+			"\\hen\\",
+			"projects"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\henniels\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
